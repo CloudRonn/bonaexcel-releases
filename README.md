@@ -8,7 +8,7 @@ Download the latest Bonaexcel.exe from the [releases page](https://github.com/Cl
 
 ## Release verification
 
-Version: 2026.11.27.6  
-SHA-256: 90da4ac5ee9a3735341e67d050406e584fc3761ab8a713d7bf640ed9a0c58ea1
+Version: 2026.11.27.7  
+SHA-256: 18e591e834f8266cdd978dfefd0f8a05b978a3d4fba15caf37ac9d3b152cfefe
 
 This repository contains public desktop releases only.
